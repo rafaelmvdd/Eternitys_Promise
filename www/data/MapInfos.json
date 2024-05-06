@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Stage 2","order":4,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"Stage 3","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"Stage 4","order":10,"parentId":0,"scrollX":811,"scrollY":640},
+{"id":4,"expanded":false,"name":"End Credits","order":16,"parentId":16,"scrollX":819,"scrollY":461},
+{"id":5,"expanded":true,"name":"Stage 1","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"Intro Scene","order":2,"parentId":5,"scrollX":816,"scrollY":800},
+{"id":7,"expanded":true,"name":"Stage 5","order":13,"parentId":0,"scrollX":811,"scrollY":547},
+{"id":8,"expanded":true,"name":"Stage 1 After","order":3,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":9,"expanded":false,"name":"Stage 2 Before","order":5,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":10,"expanded":true,"name":"Stage 2 After","order":6,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":11,"expanded":true,"name":"Stage 3 Before","order":8,"parentId":2,"scrollX":819,"scrollY":461},
+{"id":12,"expanded":false,"name":"Stage 3 After","order":9,"parentId":2,"scrollX":816,"scrollY":2144},
+{"id":13,"expanded":true,"name":"Stage 4 Before","order":11,"parentId":3,"scrollX":811,"scrollY":691},
+{"id":14,"expanded":true,"name":"Stage 4 After","order":12,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":15,"expanded":true,"name":"Stage 5 End","order":14,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":16,"expanded":true,"name":"Ending Scene","order":15,"parentId":0,"scrollX":832,"scrollY":640}
+]
